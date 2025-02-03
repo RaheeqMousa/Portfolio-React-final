@@ -1,6 +1,5 @@
 import React from 'react'
 import ElraheeqStore from './elraheeqStore.png';
-impor
 import SmallStore_js from './SmallStoreJS.png'
 import CoursesWebsite from './CoursesWebsiteHTMLCSS.png'
 import { FaStar } from 'react-icons/fa';
