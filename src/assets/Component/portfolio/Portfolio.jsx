@@ -3,7 +3,7 @@ import ElraheeqStore from './elraheeqStore.png';
 import SmallStore_js from './SmallStoreJS.png'
 import CoursesWebsite from './CoursesWebsiteHTMLCSS.png'
 import { FaStar } from 'react-icons/fa';
-import style from './portfolio.module.css'
+import style from './Portfolio.module.css'
 import { Link } from 'react-router-dom';
 
 
