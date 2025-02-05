@@ -13,14 +13,11 @@ export default function AboutUs() {
             <h3>About</h3>
             <div className={`${style.about}`}>
                 <p className={`${ style.paragraphStyle}`}>
-                    Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional SASS stylesheets for easy customization.
-                </p>
-                <p className={`${ style.paragraphStyle}`}>
-                    You can create your own custom avatar for the masthead, change the icon in the dividers, and add your email address to the contact form to make it fully functional!
+                Iam a hardworking and ambitious computer science student at Birzeit University. I am passionate about making a meaningful impact on society.
                 </p>
                 
             </div>
-            <button className={`p-3 ${style.buttonStyle}`}><FaDownload size={25} color='white'></FaDownload>Free Download!</button>
+            {/* <button className={`p-3 ${style.buttonStyle}`}><FaDownload size={25} color='white'></FaDownload>Free Download!</button> */}
         </div>
     </div>
 

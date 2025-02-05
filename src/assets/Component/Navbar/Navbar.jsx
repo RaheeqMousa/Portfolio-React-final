@@ -20,9 +20,9 @@ export default function navbar() {
             <li className="nav-item">
               <Link className="nav-link fw-bold fs-4" to={'/'}>Portfolio</Link>
             </li>
-            <li className="nav-item">
+            {/* <li className="nav-item">
               <Link className="nav-link fw-bold fs-4" to={'/contact'}>Contact</Link>
-            </li>
+            </li> */}
           </ul>
         </div>
 
